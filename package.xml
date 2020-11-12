@@ -26,7 +26,6 @@
   <depend>boost</depend>
   <depend>roscpp</depend>
   <depend>rospy</depend>
-  <depend>rostest</depend>
   <depend>std_msgs</depend>
 
   <exec_depend>message_runtime</exec_depend>
